@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently looking for full stack developer roles  ...<br>
+<p align="left">✨ Actively applying for roles 📚 I'm currently looking for full stack developer roles  ...<br>
 ###
 
 <h2 align="left">I code with</h2>
