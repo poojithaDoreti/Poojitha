@@ -1,34 +1,29 @@
-# Poojitha
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hi there, I'm Poojitha Doreti! 👋
 
-<p align="left">My name is Poojitha and I'm a full stack developer 
+## 🚀 About Me
+I'm a **Senior Full Stack Developer** with over 7 years of experience in building scalable and high-performance applications. Passionate about solving complex technical challenges and optimizing application performance.
 
-###
+## 🛠 Tech Stack
+- **Frontend:** Angular, React.js
+- **Backend:** Java, Spring Boot
+- **Cloud Platforms:** AWS, Azure
+- **Containers & Orchestration:** Docker, Kubernetes
+- **Security:** OAuth 2.0, JWT, SAML
+- **CI/CD:** Jenkins, GitHub Actions
 
-<h2 align="left">About me</h2>
+## 📌 Featured Projects
+- 🚀 **Enterprise-Grade Web Applications** – Scalable solutions built with Java and Angular
+- ☁️ **Cloud-Based Solutions** – AWS & Azure-powered microservices
+- 🔐 **Secure Authentication Systems** – Implementing OAuth 2.0, JWT, and SAML
 
-###
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/your-github)
 
-<p align="left">✨ Actively applying for roles 📚 I'm currently looking for full stack developer roles  ...<br>
-###
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github&layout=compact&theme=radical)
 
-<h2 align="left">I code with</h2>
+---
+💡 **"Continuous learning and innovation drive my passion for development!"**
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-</div>
-
-###
