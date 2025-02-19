@@ -6,8 +6,7 @@
 </head>
 <body>
     <h2>Profile Image</h2>
-    <img src="https://"C:\Users\pooji\OneDrive\Desktop\Pooja.png"/your-repository/main/profile.jpg" 
-         alt="Profile Image" width="300">
+    <img src="https://"C:\Users\pooji\OneDrive\Desktop\Pooja.png"/your-repository/main/profile.jpg" "Height="200px" width="300px">
 </body>
 </html
 ### 👋 **About Me**  
