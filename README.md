@@ -24,11 +24,24 @@ I am a **Senior Full Stack Developer** with over **7 years of experience** speci
 🔹 Migrated application from **Azure to AWS**, reducing latency by 30%  
 🔹 Implemented **React Redux & Node.js** for a high-performance UI  
 
-#### 3️⃣ Office Depot**[Real-Time Order Tracking - Big Basket](#)** *(Angular, Spring Boot, Kafka, AWS)*  
+#### 3️⃣ **Office Depot [E-Commerce & B2B Retail Platform]**- *(Angular, Spring Boot, Kafka, AWS)*
+ 
 🔹 Built a **real-time tracking system** using **WebSockets & AWS API Gateway**  
-🔹 Implemented **Kafka & AWS SQS** for event-driven architecture  
+🔹 Implemented **Kafka & AWS SQS** for event-driven architecture 
+🔹 Developed **microservices architecture** for order management and B2B procurement, improving scalability.  
+🔹 Migrated systems to **AWS with Kubernetes & Docker**, ensuring high availability and performance.  
+🔹 Enhanced UI with **Angular**, providing a seamless and responsive shopping experience.
 
+### **BigBasket [E-Commerce Platform - BigBasket]** *(Java, Spring Boot, Angular, AWS, Kubernetes)*  
+
+🔹 Developed **scalable microservices** for product catalog, order management, and payment processing.  
+🔹 Optimized **real-time inventory tracking** using **Kafka & Redis**, improving stock accuracy by 40%.  
+🔹 Migrated services from **monolithic to microservices architecture**, enhancing system scalability.  
+🔹 Integrated **secure payment gateways** with **OAuth 2.0 & JWT authentication** for safe transactions.  
+🔹 Deployed on **AWS using Kubernetes & Docker**, ensuring high availability and auto-scaling.  
+🔹 Enhanced **user experience** by implementing **React with Redux** for faster and dynamic UI interactions.  
 ### 🛠 **Tech Stack & Skills**  
+
 
 | **Category**      | **Technologies/Tools**  |
 |------------------|---------------------|
