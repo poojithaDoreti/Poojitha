@@ -5,7 +5,7 @@
 <!DOCTYPE html>
 </head>
 <body>
-    <h2>Profile Image</h2>
+    <h2>Pooja.png</h2>
     <img src="https://"C:\Users\pooji\OneDrive\Desktop\Pooja.png"/your-repository/main/profile.jpg" "Height="200px" width="300px">
 </body>
 </html
