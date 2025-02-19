@@ -2,6 +2,19 @@
 
 **📍 Houston, TX** | **📧 poojithadoreti939@gmail.com** | **📞 +1 (936) 304-1686** | [**https://www.linkedin.com/in/poojitha-doreti-2a0252210/**](#) | [**GitHub**](#)  
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pooja.Png</title>
+</head>
+<body>
+    <h2>Profile Image</h2>
+    <img src="https://"C:\Users\pooji\OneDrive\Desktop\Pooja.png"/your-repository/main/profile.jpg" 
+         alt="Profile Image" width="300">
+</body>
+</html
 ### 👋 **About Me**  
 I am a **Senior Full Stack Developer** with over **7 years of experience** specializing in **Java, Spring Boot, React.js, Angular, and cloud technologies (AWS, Azure)**. I am passionate about building **scalable and high-performance applications** while focusing on **security, CI/CD, and DevOps best practices**.  
 
