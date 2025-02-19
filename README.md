@@ -3,11 +3,6 @@
 **📍 Houston, TX** | **📧 poojithadoreti939@gmail.com** | **📞 +1 (936) 304-1686** | [**https://www.linkedin.com/in/poojitha-doreti-2a0252210/**](#) | [**GitHub**](#)  
 
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pooja.Png</title>
 </head>
 <body>
     <h2>Profile Image</h2>
